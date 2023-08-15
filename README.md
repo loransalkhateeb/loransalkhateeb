@@ -17,11 +17,15 @@ Providing a good foundation in programming and
 going towards mobile application development 
 currently in front-end site with flutter frame work,
 In back-end site with php and MySQL (built API).
+
 - :technologist: I love using Software as a solution for every `Problem`.
+  
 - :computer: I am a competitive programmer at `Asp.net` in back-end site`.
+  
 - :nerd_face: Always `learning new things`.
+  
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/lorans-alkhateeb-2a7864278/).
-- :boom: You can visit [MY WEBSITE](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1204951867204365626).
+- :boom: You can visit [MY Applications](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1204951867204365626).
 <br>
 
 
