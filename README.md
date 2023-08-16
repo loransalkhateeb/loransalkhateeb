@@ -45,8 +45,8 @@ In back-end site with php and MySQL (built API).
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="Dart" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4style=plastic&logo=c%2B%2B&logoColor=white">
+  <a href="https://dart.dev/tutorials" target="_blank"> 
+    <img alt="Dart" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwm7JasTw3bd-cgrMyh3LoCdbHtnc0OT50N_TbKqhJHP2Ql7PXMjV083SxSYZd_yDEoZs&usqp=CAUlogoColor=white">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
