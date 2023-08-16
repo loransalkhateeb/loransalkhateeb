@@ -58,7 +58,7 @@ In back-end site with php and MySQL (built API).
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+   <img alt="Flutter" src="https://img.shields.io/badge/flutter%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
