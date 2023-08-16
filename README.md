@@ -62,7 +62,7 @@ In back-end site with php and MySQL (built API).
   </a>   
   &emsp;
   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=python&logoColor=black">
+    <img alt="Python" src="https://img.shields.io/badge/Python-%2361DAFB.svg?style=plastic&logo=python&logoColor=black">
   </a>
   &emsp;
 </p>
@@ -87,7 +87,7 @@ In back-end site with php and MySQL (built API).
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=Android Studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=android studio-code&logoColor=white"></a>
   &emsp;
 
 </p>
