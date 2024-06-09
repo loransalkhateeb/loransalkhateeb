@@ -12,7 +12,7 @@
 
 - :technologist: I love using Software as a solution for every `Problem`.
   
-- :computer: I am a competitive programmer at `Asp.net` in back-end site`.
+- :computer: I am a competitive programmer at `Spring Boot` in back-end site`.
   
 - :nerd_face: Always `learning new things`.
   
