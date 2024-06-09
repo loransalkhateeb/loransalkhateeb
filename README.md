@@ -8,11 +8,7 @@
 
 <br><br>
 
-- :school: I fresh graduate from computer science field,
-Providing a good foundation in programming and 
-going towards mobile application development 
-currently in front-end site with flutter frame work,
-In back-end site with php and MySQL (built API).
+- :school: Innovative Mobile and Web Application Developer with 1 year of experience in creating high-quality applications. Skilled in JavaScript, React, Flutter, and agile methodologies. Adept at optimizing performance and enhancing user experience.
 
 - :technologist: I love using Software as a solution for every `Problem`.
   
